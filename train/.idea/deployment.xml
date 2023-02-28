@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wenjiahua@172.31.246.20:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="wenjiahua@172.31.246.20:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wenjiahua/windows_project/gy_train" local="$PROJECT_DIR$" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
